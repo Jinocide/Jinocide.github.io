@@ -1,0 +1,16 @@
+body {
+	background-color: cornsilk;
+}
+h1 {
+	font-family: verdana;
+	text-align: center;
+	color: #bcaac4;
+}
+ol{
+	font-family: verdana;
+	font-size: 20px;
+	color: #bcaac4;
+	margin-top: 100px;
+	margin-left: 50px;
+	list-style-type: lower-alpha;
+}
